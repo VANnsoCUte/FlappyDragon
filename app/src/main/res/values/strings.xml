@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flappy Dragony</string>
+    <string name="best_0">best 0</string>
+    <string name="_0">0</string>
+    <string name="game_over">Game Over</string>
+    <string name="touch_the_screen_to_continue">Touch the screen to continue</string>
+</resources>
